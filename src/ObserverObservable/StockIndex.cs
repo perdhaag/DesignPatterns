@@ -1,5 +1,6 @@
 namespace ObserverObservable;
 
+
 public class StockIndex : IStockListener
 {
     public string Name { get; set; }
